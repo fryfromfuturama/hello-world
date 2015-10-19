@@ -1,3 +1,2 @@
-# hello-world
-Just another repository
-done
+# hello-world (LOL)
+Just another repository done
